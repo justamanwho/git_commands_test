@@ -7,3 +7,4 @@ for i in range(3):
 print('what the fuck is this?')
 print('buy')
 print('hello')
+print('Try to commit without -m')
