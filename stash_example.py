@@ -5,3 +5,4 @@ for i in range(3):
     print(i)
 
 print('what the fuck is this?')
+print('buy')
