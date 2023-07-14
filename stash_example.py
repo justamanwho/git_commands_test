@@ -7,5 +7,5 @@ for i in range(3):
 print('what the fuck is this?')
 print('hello')
 
-
 print('something new')
+print('nothing')
